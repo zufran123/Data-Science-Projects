@@ -19,7 +19,7 @@ Each folder in this repo is a standalone project with real-world data, visual in
 
 ---
 
-### 2. 📈 [Sales Data Insights](https://github.com/zufran123/Data-Analysis-Projects/tree/main/sales-insights-dashboard)
+### 2. 📈 [Sales Insights Dashboard](https://github.com/zufran123/Data-Analysis-Projects/tree/main/sales-insights-dashboard)
 > Performs exploratory data analysis on sales data to extract actionable insights.
 
 - 📁 Folder: `sales-data-insights/`
