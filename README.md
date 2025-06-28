@@ -17,16 +17,6 @@ Each folder in this repo is a standalone project with real-world data, visual in
 
 💡 **Goal:** Help businesses retain customers by identifying churn risk.
 
----
-
-### 2. 📈 [Sales Insights Dashboard](https://github.com/zufran123/Data-Analysis-Projects/tree/main/sales-insights-dashboard)
-> Performs exploratory data analysis on sales data to extract actionable insights.
-
-- 📁 Folder: `sales-data-insights/`
-- 📊 Input: `dataset/sales_data.csv`
-- 📑 Output: `sales_report.pdf`, charts, Python code
-
-💡 **Goal:** Understand sales trends, top-performing products, and market patterns.
 
 ---
 
@@ -67,12 +57,6 @@ Each folder in this repo is a standalone project with real-world data, visual in
 │   ├── src/
 │   ├── churn_analysis.py
 │   ├── requirements.txt
-│   └── README.md
-│
-├── sales-data-insights/
-│   ├── dataset/
-│   ├── main.py
-│   ├── sales_report.pdf
 │   └── README.md
 │
 ├── .gitignore
