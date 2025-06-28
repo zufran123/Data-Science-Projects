@@ -14,5 +14,7 @@ This repository contains beginner-friendly and real-world data analysis projects
 ## 📌 Goal
 Build end-to-end data projects for practice, portfolio, and showcasing Python and data science skills.
 
-> Created by Mohd Zufran – exploring data one project at a time!
+> Created by Mohd Zufran – Eploring data one project at a time!
+
+Let's connect on - http://www.linkedin.com/in/mohdzufran
 
