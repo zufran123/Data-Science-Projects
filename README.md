@@ -1,20 +1,89 @@
 # 📊 Data Analysis Projects
 
-This repository contains beginner-friendly and real-world data analysis projects using Python.
+Welcome to my collection of end-to-end data analysis projects using Python, Jupyter, and ML libraries.  
+Each folder in this repo is a standalone project with real-world data, visual insights, and ML modeling.
 
-## 🚀 Projects Included
-- **Sales Insights:** Analyze sales trends, top products, and revenue patterns.
-- **Customer Churn:** Predict which customers are likely to leave using ML models and visualize results with Streamlit.
+---
+
+## 🔍 Projects Included
+
+### 1. 🧠 [Customer Churn Analysis](https://github.com/zufran123/Data-Analysis-Projects/tree/main/customer-churn-analysis)
+> Predicts customer churn using classification algorithms.
+
+- 📁 Folder: `customer-churn-analysis/`
+- 🔧 Models used: Logistic Regression, Decision Tree, Random Forest
+- 📊 Input: `data/churn_data.csv`
+- 📁 Output: Predictions, `.pkl` model files, `README.md`, visuals
+
+💡 **Goal:** Help businesses retain customers by identifying churn risk.
+
+---
+
+### 2. 📈 [Sales Data Insights](https://github.com/zufran123/Data-Analysis-Projects/tree/main/sales-data-insights)
+> Performs exploratory data analysis on sales data to extract actionable insights.
+
+- 📁 Folder: `sales-data-insights/`
+- 📊 Input: `dataset/sales_data.csv`
+- 📑 Output: `sales_report.pdf`, charts, Python code
+
+💡 **Goal:** Understand sales trends, top-performing products, and market patterns.
+
+---
 
 ## 🛠️ Tech Stack
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn, Streamlit
 
-## 📌 Goal
-Build end-to-end data projects for practice, portfolio, and showcasing Python and data science skills.
+- **Languages & Tools**: Python, Jupyter Notebook
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Version Control**: Git & GitHub
 
-> Created by Mohd Zufran – Eploring data one project at a time!
+---
 
-Let's connect on - http://www.linkedin.com/in/mohdzufran
+## 🚀 How to Run
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/zufran123/Data-Analysis-Projects.git
+   cd Data-Analysis-Projects
+2. **Create a Virtual Environment**
+   ```bash
+    python -m venv venv
+    venv\Scripts\activate   # On Windows
+3. **Install Required Packages**
+   ```bash
+     pip install -r <project-folder>/requirements.txt
+
+4. **Open in Jupyter or any IDE**
+    ```bash
+    jupyter notebook
+     Pycharm
+     VS Code
+
+ ## 📂 Folder Structure
+ Data-Analysis-Projects/
+│
+├── customer-churn-analysis/
+│   ├── data/
+│   ├── models/
+│   ├── src/
+│   ├── churn_analysis.py
+│   ├── requirements.txt
+│   └── README.md
+│
+├── sales-data-insights/
+│   ├── dataset/
+│   ├── main.py
+│   ├── sales_report.pdf
+│   └── README.md
+│
+├── .gitignore
+└── README.md  <-- You are here
+
+## Thank you for visiting! 🌟
+
+## 🤝 Connect with Me
+🔗 LinkedIn
+
+Created by Mohd Zufran 
+
+
 
