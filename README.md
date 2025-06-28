@@ -81,9 +81,9 @@ Each folder in this repo is a standalone project with real-world data, visual in
 ## Thank you for visiting! 🌟
 
 ## 🤝 Connect with Me
-🔗 LinkedIn
+🔗 LinkedIn -> http://www.linkedin.com/in/mohdzufran
 
-Created by Mohd Zufran 
+### Created by Mohd Zufran 
 
 
 
