@@ -65,7 +65,7 @@ Each folder in this repo is a standalone project with real-world data, visual in
 ## Thank you for visiting! 🌟
 
 ## 🤝 Connect with Me
-🔗 [LinkedIn](https://linkedin.com/in/mohdzufran)
+[![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
 ### Created by Mohd Zufran 
 
