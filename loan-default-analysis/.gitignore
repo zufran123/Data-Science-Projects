@@ -1,0 +1,32 @@
+# Ignore Python cache & virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore PDF reports (keep only sample if needed)
+reports/*.pdf
+
+# Ignore logs or temp files
+*.log
+*.tmp
+
+# Ignore ZIPs or build artifacts
+*.zip
+*.tar.gz
+*.egg-info/
+
+# Optional: ignore Streamlit secrets or envs (if used later)
+.env
+secrets.toml
