@@ -55,9 +55,8 @@ Each folder in this repo is a standalone project with real-world data, visual in
    pip install -r <project-       folder>/requirements.txt
 4. **Open in Jupyter or any IDE**
    ```bash 
-    jupyter notebook
-     IDEs:
-     VS Code, PyCharm, etc.
+   IDEs:
+   VS Code,jupyter notebook,PyCharm
 
 📂 Folder Structure
 kotlin
