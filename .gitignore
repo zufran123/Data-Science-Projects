@@ -1,5 +1,67 @@
-venv/ 
-**/venv/ 
-__pycache__/ 
-*.py[cod] 
-.ipynb_checkpoints/ 
+# ======================================
+# Python + Data Analysis Project .gitignore
+# ======================================
+
+# === Python Bytecode & Caches ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === Virtual Environments ===
+venv/
+**/venv/
+.env/
+.envrc/
+
+# === Model & Output Files ===
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.onnx
+
+# === Logs, Reports, and Outputs ===
+*.log
+*.pdf
+*.csv
+*.xlsx
+outputs/
+reports/
+
+# === Streamlit Cache & Temp ===
+.streamlit/
+**/.streamlit/
+**/.stcache/
+**/.stcache/
+
+# === VS Code Settings ===
+.vscode/
+
+# === Mac & Linux System Files ===
+.DS_Store
+Thumbs.db
+
+# === PyCharm IDE ===
+.idea/
+
+# === Python Dependency Files (editable backups) ===
+pip-log.txt
+pip-delete-this-directory.txt
+
+# === Git Ignore Config for GitHub Upload Cleanliness ===
+*.zip
+*.tar.gz
+*.egg-info/
+dist/
+build/
+
+# === Project Specific Exclusions ===
+# (Optional: Uncomment if needed)
+# *.db
+# database.sqlite3
