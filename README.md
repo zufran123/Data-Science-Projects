@@ -45,30 +45,19 @@ Each folder in this repo is a standalone project with real-world data, visual in
    ```bash
    git clone https://github.com/zufran123/Data-Analysis-Projects.git
    cd Data-Analysis-Projects
-Create a Virtual Environment
-
-bash
-Copy code
-python -m venv venv
-venv\Scripts\activate   # On Windows
-source venv/bin/activate  # On Linux/Mac
-Install Required Packages
-
-bash
-Copy code
-pip install -r <project-folder>/requirements.txt
-Open in Jupyter or any IDE
-
-Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-IDEs:
-
-VS Code
-
-PyCharm
+2. **Create a Virtual Environment**
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate  # On Windows
+   source venv/bin/activate # On. Linux/Mac
+3. **Install Required Packages**
+   ```bash
+   pip install -r <project-       folder>/requirements.txt
+4. **Open in Jupyter or any IDE**
+   ```bash 
+    jupyter notebook
+     IDEs:
+     VS Code, PyCharm, etc.
 
 📂 Folder Structure
 kotlin
