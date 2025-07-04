@@ -91,5 +91,5 @@ If you like my work, feel free to ⭐ star the repository or connect with me bel
 
  [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
-## Author 
-👨‍💻 Created by Mohd Zufran
+## 👨‍💻 Author 
+ Created by Mohd Zufran
