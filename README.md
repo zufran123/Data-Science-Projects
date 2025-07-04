@@ -1,4 +1,4 @@
-# 📊 Data analysis Projects
+# 📊 Data Analysis Projects
 
 Welcome to my collection of end-to-end data analysis projects using Python, Jupyter, and ML libraries.  
 Each folder in this repo is a standalone project with real-world data, visual insights, and ML modeling.
