@@ -85,9 +85,11 @@ Data-Analysis-Projects/
 🙏 Thank You for Visiting!
 If you like my work, feel free to ⭐ star the repository or connect with me below.
 
-🤝 Connect with Me
+---
+
+## 🤝 Connect with Me
 
  [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
-
+## Author 
 👨‍💻 Created by Mohd Zufran
